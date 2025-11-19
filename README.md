@@ -1,8 +1,8 @@
 <h1>Hi, I'm Korie! 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/KorieCooper/UserGroupManagementLab)
+- <b>Kali Linux labs</b>
+  - [Group and User Management](https://github.com/KorieCooper/UserGroupManagementLab)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
