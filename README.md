@@ -4,7 +4,7 @@
 - <b>Kali Linux labs</b>
   - [Linux Directory and File Navigation](https://github.com/KorieCooper/Linux-Directiory-and-File-Navigation-)
   - [Group and User Management](https://github.com/KorieCooper/UserGroupManagementLab/blob/main/README.md)
-  - [Linux Password Security and Cracking Lab](https://github.com/KorieCooper/Linux-Password-Security-Cracking-Lab/tree/main)
+  - [Linux Password Security and Cracking](https://github.com/KorieCooper/Linux-Password-Security-Cracking-Lab/tree/main)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
