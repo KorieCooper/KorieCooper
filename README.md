@@ -5,6 +5,7 @@
   - [Linux Directory and File Navigation](https://github.com/KorieCooper/Linux-Directiory-and-File-Navigation-)
   - [Group and User Management](https://github.com/KorieCooper/UserGroupManagementLab/blob/main/README.md)
   - [Linux Password Security and Cracking](https://github.com/KorieCooper/Linux-Password-Security-Cracking-Lab/tree/main)
+  - [Intro to Bash Conditional Logic File Checks](https://github.com/KorieCooper/Intro-to-Bash-Conditional-Logic-File-Checks/tree/main)
 <!--
 
 Here are some ideas to get you started:
