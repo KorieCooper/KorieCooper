@@ -6,7 +6,6 @@
   - [Group and User Management](https://github.com/KorieCooper/UserGroupManagementLab/blob/main/README.md)
   - [Linux Password Security and Cracking](https://github.com/KorieCooper/Linux-Password-Security-Cracking-Lab/tree/main)
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
