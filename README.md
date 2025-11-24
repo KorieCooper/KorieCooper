@@ -3,7 +3,7 @@
 
 - <b>Kali Linux labs</b>
   - [Group and User Management](https://github.com/KorieCooper/UserGroupManagementLab)
-  - [Group and User Management](README.md)
+  - [Group and User Management]([README.md](https://github.com/KorieCooper/UserGroupManagementLab/blob/main/README.md))
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
