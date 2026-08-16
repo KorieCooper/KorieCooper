@@ -8,7 +8,7 @@
   - [Intro to Bash Conditional Logic File Checks](https://github.com/KorieCooper/Intro-to-Bash-Conditional-Logic-File-Checks/tree/main)
 
 - <b>Python labs</b>
-  - [Learning Python](https://github.com/KorieCooper/Learning-Python)
+  - [Python Labs](https://github.com/KorieCooper/Learning-Python)
 
 <!--
 
