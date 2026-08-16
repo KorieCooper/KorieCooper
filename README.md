@@ -4,7 +4,7 @@
 <b>Linux labs</b>
   - [Linux Directory and File Navigation](https://github.com/KorieCooper/Linux-Directiory-and-File-Navigation-)
   - [Group and User Management](https://github.com/KorieCooper/UserGroupManagementLab/blob/main/README.md)
-  - [Linux Password Security and Cracking](https://github.com/KorieCooper/Linux-Password-Security-Cracking-Lab/tree/main)
+  - [Linux Password Security and Cracking](https://github.com/KorieCooper/Linux-Password-Security-Cracking-Lab/blob/main/README.md)
   - [Intro to Bash Conditional Logic File Checks](https://github.com/KorieCooper/Intro-to-Bash-Conditional-Logic-File-Checks/blob/main/README.md)
   - [Backup Automation using Crontab](https://github.com/KorieCooper/Backup-using-Crontab-Automation/blob/main/README.md)
 
