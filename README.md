@@ -6,6 +6,10 @@
   - [Group and User Management](https://github.com/KorieCooper/UserGroupManagementLab/blob/main/README.md)
   - [Linux Password Security and Cracking](https://github.com/KorieCooper/Linux-Password-Security-Cracking-Lab/tree/main)
   - [Intro to Bash Conditional Logic File Checks](https://github.com/KorieCooper/Intro-to-Bash-Conditional-Logic-File-Checks/tree/main)
+
+- <b>Python labs</b>
+  - [Learning Python](https://github.com/KorieCooper/Learning-Python)
+
 <!--
 
 Here are some ideas to get you started:
