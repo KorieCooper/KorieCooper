@@ -1,7 +1,7 @@
 <h1>Hi, I'm Korie! 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Kali Linux labs</b>
+- <b>Linux labs</b>
   - [Linux Directory and File Navigation](https://github.com/KorieCooper/Linux-Directiory-and-File-Navigation-)
   - [Group and User Management](https://github.com/KorieCooper/UserGroupManagementLab/blob/main/README.md)
   - [Linux Password Security and Cracking](https://github.com/KorieCooper/Linux-Password-Security-Cracking-Lab/tree/main)
